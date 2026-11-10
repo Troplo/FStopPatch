@@ -1,0 +1,9 @@
+build/
+out/
+bin/
+lib/
+.idea/
+.vscode/
+*.user
+*.suo
+*.log
